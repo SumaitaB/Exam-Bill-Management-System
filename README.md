@@ -1,6 +1,8 @@
 # Exam-Bill-Management-System
 The project illustrates the development of a web application called : Exam Bill Management System (EBMS) which is a crucial process in any educational institution. It enables the  faculty and educators to keep an organized track of all invoice related  activities taking place within exam committees and keep a tab on the overall  expenses.
 
+Details:
+
 ![Slide4](https://github.com/SumaitaB/Exam-Bill-Management-System/assets/51522304/187afd0b-5c51-4250-9d19-b39d6df745a8)
 ![Slide5](https://github.com/SumaitaB/Exam-Bill-Management-System/assets/51522304/413017e9-6a53-4413-a055-929088b0a4d4)
 ![Slide6](https://github.com/SumaitaB/Exam-Bill-Management-System/assets/51522304/480a0f6f-798d-48fb-b37e-6c4498c3dd4a)
