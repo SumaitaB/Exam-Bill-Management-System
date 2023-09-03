@@ -1,5 +1,5 @@
 # Exam-Bill-Management-System
-The project illustrates the development of a web application called : Exam Bill Management System (EBMS) which is a crucial process in any educational institution. It enables the  faculty and educators to keep an organized track of all invoice related  activities taking place within exam committees and keep a tab on the overall  expenses.
+This project illustrates the development of a web application called : Exam Bill Management System (EBMS) which is a crucial process in any educational institution. It enables the  faculty and educators to keep an organized track of all invoice related  activities taking place within exam committees and keep a tab on the overall  expenses.
 
 Details:
 
